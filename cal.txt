@@ -1,0 +1,246 @@
+CALENDARIO:
+GIORNATA  1
+Inter - Atalanta
+Venezia - Juventus
+Salernitana - Spezia
+Bologna - Napoli
+Cagliari - Sampdoria
+Torino - Lazio
+Udinese - Roma
+Fiorentina - Verona
+Milan - Genoa
+Empoli - Sassuolo
+
+
+GIORNATA  2
+Juventus - Spezia
+Venezia - Genoa
+Atalanta - Sampdoria
+Inter - Udinese
+Torino - Verona
+Lazio - Napoli
+Milan - Salernitana
+Roma - Bologna
+Cagliari - Empoli
+Fiorentina - Sassuolo
+
+
+GIORNATA  3
+Inter - Venezia
+Cagliari - Atalanta
+Udinese - Sassuolo
+Sampdoria - Spezia
+Verona - Juventus
+Roma - Milan
+Lazio - Bologna
+Napoli - Salernitana
+Genoa - Fiorentina
+Empoli - Torino
+
+
+GIORNATA  4
+Atalanta - Fiorentina
+Juventus - Empoli
+Cagliari - Spezia
+Venezia - Milan
+Verona - Udinese
+Sampdoria - Sassuolo
+Lazio - Salernitana
+Bologna - Inter
+Torino - Napoli
+Roma - Genoa
+
+
+GIORNATA  5
+Sassuolo - Napoli
+Genoa - Bologna
+Venezia - Salernitana
+Sampdoria - Inter
+Udinese - Lazio
+Torino - Fiorentina
+Roma - Cagliari
+Spezia - Empoli
+Juventus - Atalanta
+Verona - Milan
+
+
+GIORNATA  6
+Sampdoria - Venezia
+Torino - Milan
+Sassuolo - Inter
+Genoa - Atalanta
+Spezia - Lazio
+Salernitana - Cagliari
+Bologna - Empoli
+Napoli - Verona
+Roma - Juventus
+Fiorentina - Udinese
+
+
+GIORNATA  7
+Bologna - Cagliari
+Empoli - Udinese
+Salernitana - Fiorentina
+Sampdoria - Lazio
+Juventus - Genoa
+Roma - Torino
+Napoli - Venezia
+Spezia - Milan
+Inter - Verona
+Atalanta - Sassuolo
+
+
+GIORNATA  8
+Napoli - Milan
+Verona - Salernitana
+Udinese - Atalanta
+Torino - Cagliari
+Empoli - Venezia
+Lazio - Inter
+Sampdoria - Bologna
+Genoa - Spezia
+Roma - Fiorentina
+Sassuolo - Juventus
+
+
+GIORNATA  9
+Juventus - Milan
+Genoa - Torino
+Lazio - Cagliari
+Spezia - Sassuolo
+Atalanta - Verona
+Fiorentina - Inter
+Bologna - Venezia
+Roma - Sampdoria
+Udinese - Salernitana
+Empoli - Napoli
+
+
+GIORNATA  10
+Cagliari - Inter
+Torino - Juventus
+Atalanta - Napoli
+Salernitana - Empoli
+Roma - Venezia
+Fiorentina - Lazio
+Sampdoria - Milan
+Sassuolo - Genoa
+Udinese - Spezia
+Verona - Bologna
+
+
+GIORNATA  11
+Cagliari - Venezia
+Roma - Sassuolo
+Salernitana - Torino
+Fiorentina - Napoli
+Milan - Inter
+Udinese - Juventus
+Bologna - Spezia
+Lazio - Atalanta
+Verona - Empoli
+Genoa - Sampdoria
+
+
+GIORNATA  12
+Spezia - Roma
+Juventus - Lazio
+Udinese - Sampdoria
+Venezia - Verona
+Sassuolo - Torino
+Atalanta - Bologna
+Milan - Cagliari
+Salernitana - Inter
+Fiorentina - Empoli
+Genoa - Napoli
+
+
+GIORNATA  13
+Bologna - Fiorentina
+Cagliari - Juventus
+Roma - Salernitana
+Napoli - Inter
+Verona - Lazio
+Torino - Spezia
+Empoli - Sampdoria
+Venezia - Sassuolo
+Milan - Atalanta
+Genoa - Udinese
+
+
+GIORNATA  14
+Genoa - Cagliari
+Sassuolo - Bologna
+Torino - Inter
+Napoli - Udinese
+Venezia - Spezia
+Lazio - Milan
+Atalanta - Empoli
+Verona - Roma
+Salernitana - Sampdoria
+Juventus - Fiorentina
+
+
+GIORNATA  15
+Atalanta - Salernitana
+Verona - Sassuolo
+Roma - Napoli
+Bologna - Juventus
+Udinese - Cagliari
+Inter - Spezia
+Genoa - Empoli
+Fiorentina - Milan
+Lazio - Venezia
+Torino - Sampdoria
+
+
+GIORNATA  16
+Venezia - Fiorentina
+Empoli - Milan
+Sassuolo - Salernitana
+Roma - Inter
+Atalanta - Torino
+Cagliari - Verona
+Genoa - Lazio
+Bologna - Udinese
+Sampdoria - Juventus
+Spezia - Napoli
+
+
+GIORNATA  17
+Verona - Sampdoria
+Empoli - Lazio
+Genoa - Inter
+Milan - Sassuolo
+Roma - Atalanta
+Venezia - Udinese
+Juventus - Salernitana
+Napoli - Cagliari
+Torino - Bologna
+Fiorentina - Spezia
+
+
+GIORNATA  18
+Inter - Juventus
+Bologna - Milan
+Verona - Spezia
+Sassuolo - Lazio
+Cagliari - Fiorentina
+Roma - Empoli
+Torino - Udinese
+Salernitana - Genoa
+Venezia - Atalanta
+Napoli - Sampdoria
+
+
+GIORNATA  19
+Empoli - Inter
+Atalanta - Spezia
+Milan - Udinese
+Genoa - Verona
+Roma - Lazio
+Sassuolo - Cagliari
+Juventus - Napoli
+Fiorentina - Sampdoria
+Venezia - Torino
+Bologna - Salernitana
